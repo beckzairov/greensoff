@@ -35,7 +35,7 @@ export default function Navbar() {
           onClick={() => setOpen(false)}
         >
           <Image
-            src="/brand/greensoff-logo-light.svg"
+            src="/brand/greensoff-logo-dark.svg"
             alt="Greensoff"
             width={232}
             height={64}
