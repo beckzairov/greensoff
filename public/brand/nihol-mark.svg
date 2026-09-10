@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="#172b20" role="img" aria-labelledby="title"><title id="title">Nihol field mark</title>
+  <rect x="30" y="2" width="4" height="7" rx="2"/>
+  <rect x="30" y="2" width="4" height="7" rx="2" transform="rotate(-48 32 25)"/>
+  <rect x="30" y="2" width="4" height="7" rx="2" transform="rotate(48 32 25)"/>
+  <path d="M20 25A12 12 0 0 1 44 25H20Z"/>
+  <path d="M14 33H21L15 58H4L14 33Z"/>
+  <path d="M26 33H30V58H21L26 33Z"/>
+  <path d="M34 33H38L43 58H34V33Z"/>
+  <path d="M43 33H50L60 58H49L43 33Z"/></svg>

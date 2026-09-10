@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="64" viewBox="0 0 232 64" fill="none" role="img" aria-labelledby="title"><title id="title">Nihol — agricultural solutions</title><g fill="#ffffff">
+  <rect x="30" y="2" width="4" height="7" rx="2"/>
+  <rect x="30" y="2" width="4" height="7" rx="2" transform="rotate(-48 32 25)"/>
+  <rect x="30" y="2" width="4" height="7" rx="2" transform="rotate(48 32 25)"/>
+  <path d="M20 25A12 12 0 0 1 44 25H20Z"/>
+  <path d="M14 33H21L15 58H4L14 33Z"/>
+  <path d="M26 33H30V58H21L26 33Z"/>
+  <path d="M34 33H38L43 58H34V33Z"/>
+  <path d="M43 33H50L60 58H49L43 33Z"/></g><g stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M89 53V26M89 38C89 21 112 21 112 36V53"/>
+  <path d="M126 29V53"/>
+  <path d="M141 53V10M141 38C141 21 164 21 164 36V53"/>
+  <ellipse cx="188" cy="39" rx="12.5" ry="14.5"/>
+  <path d="M215 10V44C215 50 217 53 223 53"/></g><circle cx="126" cy="15" r="4.1" fill="#ffffff"/></svg>
